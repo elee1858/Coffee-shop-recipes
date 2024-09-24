@@ -1,0 +1,36 @@
+[33mcommit ede5c58423aeb66d92ebe7980719ea2f6a1e67db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 9be51fe 2ec070c
+Author: bob <bob@gmail.com>
+Date:   Fri Sep 20 16:42:15 2024 -0500
+
+    Merge feature branch into main
+
+[33mcommit 9be51fed2ed66f9f5ee9187bf2ca72882eada614[m
+Author: bob <bob@gmail.com>
+Date:   Fri Sep 20 16:41:08 2024 -0500
+
+    money
+
+[33mcommit 2ec070c4e27fe5426fe3a4c3b891a5c4d4a794d0[m[33m ([m[1;32mfeature[m[33m)[m
+Author: bob <bob@gmail.com>
+Date:   Fri Sep 20 16:37:48 2024 -0500
+
+     test
+
+[33mcommit 2ae884e4ddc3d04a3cb2c5fcef9634e75fb01325[m
+Author: bob <bob@gmail.com>
+Date:   Fri Sep 20 16:37:27 2024 -0500
+
+    edited files
+
+[33mcommit e6ce0a1ff43753834a3b73c1eca98e3cba3e279a[m
+Author: bob <bob@gmail.com>
+Date:   Fri Sep 20 16:28:40 2024 -0500
+
+    fixed heading
+
+[33mcommit c9361ab3696b82e2549b7e9f312e87576cb144a4[m
+Author: bob <bob@gmail.com>
+Date:   Fri Sep 20 15:34:27 2024 -0500
+
+    test again
