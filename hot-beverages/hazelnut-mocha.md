@@ -12,7 +12,7 @@
 
 ## How to Make Hazelnut Mocha
 
-### Step 1
+### Step 1s
 
 - Pour hazelnut syrup into a mug and add brewed Mocha Flavored Coffee. Stir. Optional: Add chocolate syrup to the bottom of your mug for a little treat and richer flavor.
 
