@@ -2,7 +2,7 @@
 
 ## Description: Rich chocolate and nutty flavors in every sip
 
-## Ingredients
+## Ingredientse
 
 - 2 Tbsp homemade Hazelnut Syrup
 - 8 oz Mocha Flavored Coffee
